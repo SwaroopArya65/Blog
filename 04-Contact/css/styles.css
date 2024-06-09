@@ -178,24 +178,24 @@ b.light-color {
 	padding: 15px 30px;
 	border-radius: 1px;
 	letter-spacing: 2px;
-	border: 1px solid #FFAD4D;
-	background: #FFAD4D;
+	border: 1px solid #4d7fff;
+	background: #4d7fff;
 	color: #fff;
 }
 
 .btn:hover {
-	color: #FFAD4D;
+	color: #4d7fff;
 	background: none;
 }
 
 .btn-2 {
 	background: none;
 	box-shadow: 2px 10px 20px rgba(0, 0, 0, .2);
-	color: #FFAD4D;
+	color: #4d7fff;
 }
 
 .btn-2:hover {
-	background: #FFAD4D;
+	background: #4d7fff;
 	color: #fff;
 }
 

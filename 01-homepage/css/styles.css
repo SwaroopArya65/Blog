@@ -3,10 +3,8 @@
 
 * 	[Master Stylesheet]
 	
-	Theme Name :  
-	Version    :  
-	Author     :  
-	Author URI :  
+	Theme Name :  Blog
+	Author     :  Arya Swaroop
 
 ====================================================
 
@@ -185,23 +183,23 @@ b.light-color {
 	padding: 15px 30px;
 	border-radius: 1px;
 	letter-spacing: 2px;
-	border: 1px solid #FFAD4D;
-	background: #FFAD4D;
+	border: 1px solid #4d7fff;
+	background: #4d7fff;
 	color: #fff;
 }
 
 .btn:hover {
-	color: #FFAD4D;
+	color: #4d7fff;
 	background: none;
 }
 
 .btn-2 {
 	background: none;
-	color: #FFAD4D;
+	color: #4d7fff;
 }
 
 .btn-2:hover {
-	background: #FFAD4D;
+	background: #4d7fff;
 	color: #fff;
 }
 
@@ -606,14 +604,14 @@ header .main-menu li.drop-down a.mouseover+ul.drop-down-menu {
 	clear: both;
 	margin-top: 30px;
 	box-shadow: 1px 10px 15px rgba(0, 0, 0, .15);
-	border: 1px solid #FFAD4D;
+	border: 1px solid #4d7fff;
 	background: #fff;
-	color: #FFAD4D;
+	color: #4d7fff;
 }
 
 .single-post .read-more-btn:hover {
 	box-shadow: 1px 3px 15px rgba(0, 0, 0, .15);
-	background: #FFAD4D;
+	background: #4d7fff;
 	color: #fff;
 }
 
@@ -773,7 +771,7 @@ header .main-menu li.drop-down a.mouseover+ul.drop-down-menu {
 	left: 0;
 	right: 0;
 	padding: 7px 20px;
-	background: #FFAD4D;
+	background: #4d7fff;
 	color: #fff;
 }
 
