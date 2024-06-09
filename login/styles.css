@@ -6,6 +6,7 @@
 /*=== Colores ===*/
 :root {
     --first-color: #12192C;
+    --second-color: #24285b;
     --text-color: #8590AD;
 }
 
@@ -70,13 +71,13 @@ img {
 .shape1 {
     top: -7rem;
     left: -3.5rem;
-    background: linear-gradient(180deg, var(--first-color) 0%, rgba(196, 196, 196, 0) 100%);
+    background: linear-gradient(180deg, var(--second-color) 0%, rgba(196, 196, 196, 0) 100%);
 }
 
 .shape2 {
     bottom: -6rem;
     right: -5.5rem;
-    background: linear-gradient(180deg, var(--first-color) 0%, rgba(196, 196, 196, 0) 100%);
+    background: linear-gradient(180deg, var(--second-color) 0%, rgba(196, 196, 196, 0) 100%);
     transform: rotate(180deg);
 }
 
@@ -99,6 +100,7 @@ img {
 
 .form__title {
     /* font-size: var(--big-font-size); */
+    color: #24285b;
     font-weight: 500;
     margin-bottom: 2rem;
 }
@@ -190,7 +192,7 @@ img {
     outline: none;
     border: none;
     margin-bottom: 3rem;
-    background-color: var(--first-color);
+    background-color: var(--second-color);
     color: #fff;
     border-radius: .5rem;
     cursor: pointer;
